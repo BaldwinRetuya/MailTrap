@@ -1,0 +1,12 @@
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\bin\Debug\net7.0\PhonesModel.deps.json
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\bin\Debug\net7.0\PhonesModel.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\bin\Debug\net7.0\PhonesModel.pdb
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.AssemblyInfoInputs.cache
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.AssemblyInfo.cs
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.sourcelink.json
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\refint\PhonesModel.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\PhonesModel.pdb
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesModel\obj\Debug\net7.0\ref\PhonesModel.dll
