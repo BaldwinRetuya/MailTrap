@@ -1,0 +1,16 @@
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.csproj.AssemblyReference.cache
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.AssemblyInfoInputs.cache
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.AssemblyInfo.cs
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.sourcelink.json
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\bin\Debug\net7.0\PhonesDL.deps.json
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\bin\Debug\net7.0\PhonesDL.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\bin\Debug\net7.0\PhonesDL.pdb
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\bin\Debug\net7.0\PhonesModel.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\bin\Debug\net7.0\PhonesModel.pdb
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.csproj.Up2Date
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\refint\PhonesDL.dll
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\PhonesDL.pdb
+C:\Users\Angelica\Source\Repos\PhoneDBAPI\PhonesDL\obj\Debug\net7.0\ref\PhonesDL.dll
